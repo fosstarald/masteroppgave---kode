@@ -1,2 +1,3 @@
 # masteroppgave---kode
-Kode fra masteroppgave
+Kode fra masteroppgave.
+Tarald Ødegård Foss
